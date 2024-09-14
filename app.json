@@ -12,24 +12,24 @@
     "remote",
     "uploader"
   ],
-  "website": "kalanakt.github.io/projects/telegram/all-url-uploader ",
-  "repository": "https://github.com/kalanakt/All-Url-Uploader",
+  "website": "www.telegram.com/ ",
+  "repository": "https://github.com/codewithyo/Url-Uploader-yo ",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "6762321917:AAEaZ6zlmSvbUHLzWwJhCWxOhf-l5aSZY18"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "28575202"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1b67159ec6b7d40313ee851dd76fdb16"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "12345678"
+      "value": "6763996948"
     }
   },
   "addons": [
