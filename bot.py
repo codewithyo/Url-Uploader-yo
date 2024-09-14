@@ -40,7 +40,7 @@ bot = Client(
 bot.start()
 logger.info("Bot has started.")
 logger.info("**Bot Started**\n\n**Pyrogram Version:** %s \n**Layer:** %s", __version__, layer)
-logger.info("Developed by github.com/kalanakt Sponsored by www.netronk.com")
+logger.info("Developed by Yatin Goyal ")
 idle()
 bot.stop()
 logger.info("Bot Stopped ;)")
